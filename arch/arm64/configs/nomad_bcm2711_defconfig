@@ -1,4 +1,3 @@
-➜  linux git:(rpi-6.4.y) cat .config
 #
 # Automatically generated file; DO NOT EDIT.
 # Linux/arm64 6.4.16 Kernel Configuration
@@ -6234,4 +6233,3 @@ CONFIG_ARCH_USE_MEMTEST=y
 #
 # end of Rust hacking
 # end of Kernel hacking
-➜  linux git:(rpi-6.4.y) 
