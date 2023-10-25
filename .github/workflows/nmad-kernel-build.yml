@@ -1,4 +1,4 @@
-name: Pi kernel build tests
+name: Build Nomad Kernel
 
 on:
   pull_request:
