@@ -24,7 +24,7 @@ jobs:
           - name: bcm2711_arm64
             arch: arm64
             defconfig: nomad_bcm2711_defconfig
-            kernel: kernel8
+            kernel: nomad-kernel8
 
     steps:
     - name: Update install
