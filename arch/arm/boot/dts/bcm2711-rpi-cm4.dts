@@ -439,5 +439,7 @@ cam0_reg: &cam1_reg {
 		cam1_reg = <&cam1_reg>,"status";
 		cam1_reg_gpio = <&cam1_reg>,"gpio:4",
 				  <&cam1_reg>,"gpio:0=", <&gpio>;
+
+		no_ssc = <&pcie0>, "brcm,enable-ssc?=off";
 	};
 };
